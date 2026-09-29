@@ -5,6 +5,7 @@ chenchen / 茅野薫。日本在住の学部生。小さなバグ修正やドキ
 
 ## Merged PRs
 
+- [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) — fix: include query string in HTTP Signature (request-target)
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) — fix(schema): recheck external dispatch after resolving
 - [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) — fix: request event streams for live queries
 - [QwikDev/qwik#9010](https://github.com/QwikDev/qwik/pull/9010) — fix(router): serve static files under the configured base path
