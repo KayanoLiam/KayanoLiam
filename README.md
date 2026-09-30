@@ -5,6 +5,7 @@
 
 ## Merged PRs
 
+- [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
 - [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) — fix: include query string in HTTP Signature (request-target)
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) — fix(schema): recheck external dispatch after resolving
 - [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) — fix: request event streams for live queries
